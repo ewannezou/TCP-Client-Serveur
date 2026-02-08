@@ -1,6 +1,10 @@
 # TCP-Client-Serveur
 Programme Rust client/serveur qui permet à chaque client connecté au serveur de déplacer en temps réel un personnage initié par le serveur et et visualisé par les autres clients
 
+## Installation
+Pour récupérer le dépot : 
+
+``git clone https://github.com/ewannezou/TCP-Client-Serveur``
 
 ## Utilisation
 Pour lancez le server, éxécuter les commandes : 
