@@ -3,7 +3,7 @@ Programme Rust client/serveur qui permet à chaque client connecté au serveur d
 
 
 ## Utilisation
-Ouvrer 2 terminal différents puis éxécuter la commande : 
+Ouvrer 2 terminals différents, puis éxécuter la commande : 
 
 Sur Linux :
 
