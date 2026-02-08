@@ -4,8 +4,10 @@ Programme Rust client/serveur qui permet à chaque client connecté au serveur d
 
 ## Utilisation
 Pour lancez le server, éxécuter les commandes : 
-``cd game_server
-  cargo run ``
+
+``cd game_server``
+
+ `` cargo run ``
   
 Pour lancer les clients : ouvrer 2 terminals différents, puis éxécuter les commandes : 
 
